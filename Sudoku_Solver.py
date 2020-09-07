@@ -22,6 +22,12 @@ x = 0
 y = 0
 dif = 500 / 9
 val = 0
+
+
+
+
+
+
 # Default Sudoku Board. 
 grid =[ 
         [7, 8, 0, 4, 0, 0, 1, 2, 0], 
